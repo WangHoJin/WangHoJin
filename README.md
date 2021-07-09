@@ -16,11 +16,11 @@
 
 ### 📊 My Stats 📊
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaeyeonkim0223)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WnagHoJin)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧾 Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyeonkim0223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WnagHoJin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chaeyeonkim0223/chaeyeonkim0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
