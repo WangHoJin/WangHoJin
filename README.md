@@ -4,9 +4,9 @@
   
 </div>
 
-<h1 align="center">🌎 Hello Hojin Wang's GitHub 🌎</h1>
+<h1 align="center">🌈 Hello Hojin Wang's GitHub 🌈</h1>
 <div>- 🔭 ㅎㅎ </div>
-<div>- 🌱 웹 </div>
+<div>- 🌱 알고리즘/웹 </div>
 <div>- 👯 반갑습니다~ </div>
 
 <h3>💯 Programming Language I've studied 💯</h3>
