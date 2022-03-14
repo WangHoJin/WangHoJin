@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">🌈 Hello Hojin Wang's GitHub 🌈</h1>
-<div>- 🐼 삼성SW청년아카데미 5기 (SSAFY 5기 : 2021.01 ~ ) </div>
+<div>- 🐼 삼성SW청년아카데미 5기 (SSAFY 5기 : 2021.01 ~ 2021.12) </div>
 <div>- 🌱 알고리즘/웹 공부중입니다 </div>
 <div>- 👯 반갑습니다~!! </div>
 
